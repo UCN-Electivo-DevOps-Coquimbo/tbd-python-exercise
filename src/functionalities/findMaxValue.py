@@ -37,8 +37,3 @@ def execute():
 
     list = _processInput(userInput)
     printResult(max(list))
-
-
-
-execute()
-
