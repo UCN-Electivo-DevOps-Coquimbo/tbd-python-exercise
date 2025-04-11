@@ -1,5 +1,6 @@
 __all__ = [
     "menu",
     "getTextWords",
-    "sortFunction"
+    "sortFunction",
+    "getFactorial",
 ]
