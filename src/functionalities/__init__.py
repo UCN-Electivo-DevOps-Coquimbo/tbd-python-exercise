@@ -1,5 +1,6 @@
 __all__ = [
     "menu",
     "getTextWords",
-    "findMaxValue"
+    "findMaxValue",
+    "getFactorial",
 ]
