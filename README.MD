@@ -13,6 +13,8 @@ Los estudiantes deberán agruparse de a dos o tres integrantes. Luego, deberán 
 - [ ] Comprobar si el número entregado por input es primo.
 - [ ] Comprobar si una cadena de caracteres es un palíndromo.
 - [X] Ordenar un listado de valores.
+- [X] Comprobar si una cadena de caracteres es un palíndromo.
+- [ ] Ordenar un listado de valores.
 - [ ] Obtener la frecuencia de los valores de una lista entregada.
 - [X] Obtener todos las palabras de un texto y colocarlas en una lista.
 

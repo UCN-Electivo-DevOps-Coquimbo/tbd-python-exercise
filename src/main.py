@@ -13,7 +13,7 @@ def executeFunction (option):
 	elif option == 5:
 		print("TO BE IMPLEMENTED...")
 	elif option == 6:
-		print("TO BE IMPLEMENTED...")
+		isPalindrome.execute()
 	elif option == 7:
 		sortFunction.execute()
 	elif option == 8:
