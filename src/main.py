@@ -7,7 +7,7 @@ def executeFunction (option):
 	elif option == 2:
 		print("TO BE IMPLEMENTED...")
 	elif option == 3:
-		print("TO BE IMPLEMENTED...")
+		getFactorial.execute()
 	elif option == 4:
 		circle_area.execute()
 	elif option == 5:

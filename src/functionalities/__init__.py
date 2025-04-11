@@ -1,5 +1,6 @@
 __all__ = [
     "menu",
     "getTextWords",
-    "circle_area"
+    "circle_area",
+    "getFactorial",
 ]
