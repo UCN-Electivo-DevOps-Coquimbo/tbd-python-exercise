@@ -5,7 +5,6 @@ def printResult(maxValue : int):
 
 
 def verifyInput(text : str):
-    print(text)
     listText = text.split()
     
     for word in listText:
