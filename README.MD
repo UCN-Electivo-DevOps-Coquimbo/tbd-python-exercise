@@ -6,7 +6,7 @@ Este es un ejercicio para el electivo "Introducción a DevOps", donde deberán a
 
 Los estudiantes deberán agruparse de a dos o tres integrantes. Luego, deberán crear una o más de las siguientes funcionalidades a la aplicación.
 
-- [ ] Calcular el promedio de un listado de valores.
+- [X] Calcular el promedio de un listado de valores.
 - [ ] Encontrar el valor máximo dentro de un listado de valores.
 - [ ] Obtener el factorial de un número según un input dado.
 - [ ] Calcular el área de un círculo dado el radio correspondiente.
