@@ -11,7 +11,7 @@ def executeFunction (option):
 	elif option == 4:
 		print("TO BE IMPLEMENTED...")
 	elif option == 5:
-		print("TO BE IMPLEMENTED...")
+		isCousing.execute()
 	elif option == 6:
 		print("TO BE IMPLEMENTED...")
 	elif option == 7:
