@@ -11,6 +11,8 @@ Los estudiantes deberán agruparse de a dos o tres integrantes. Luego, deberán 
 - [X] Calcular el área de un círculo dado el radio correspondiente.
 - [X] Obtener el factorial de un número según un input dado.
 - [ ] Comprobar si el número entregado por input es primo.
+- [ ] Comprobar si una cadena de caracteres es un palíndromo.
+- [X] Ordenar un listado de valores.
 - [X] Comprobar si una cadena de caracteres es un palíndromo.
 - [ ] Ordenar un listado de valores.
 - [ ] Obtener la frecuencia de los valores de una lista entregada.

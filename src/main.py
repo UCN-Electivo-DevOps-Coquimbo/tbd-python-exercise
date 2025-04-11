@@ -15,7 +15,7 @@ def executeFunction (option):
 	elif option == 6:
 		isPalindrome.execute()
 	elif option == 7:
-		print("TO BE IMPLEMENTED...")
+		sortFunction.execute()
 	elif option == 8:
 		print("TO BE IMPLEMENTED...")
 	elif option == 9:
