@@ -9,7 +9,7 @@ def executeFunction (option):
 	elif option == 3:
 		print("TO BE IMPLEMENTED...")
 	elif option == 4:
-		print("TO BE IMPLEMENTED...")
+		circle_area.execute()
 	elif option == 5:
 		print("TO BE IMPLEMENTED...")
 	elif option == 6:
