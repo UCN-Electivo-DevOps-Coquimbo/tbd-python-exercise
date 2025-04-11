@@ -17,7 +17,7 @@ def executeFunction (option):
 	elif option == 7:
 		print("TO BE IMPLEMENTED...")
 	elif option == 8:
-		print("TO BE IMPLEMENTED...")
+		getFrecuencyList.execute()
 	elif option == 9:
 		getTextWords.execute()
 	elif option == 0:
