@@ -12,7 +12,7 @@ Los estudiantes deberán agruparse de a dos o tres integrantes. Luego, deberán 
 - [ ] Calcular el área de un círculo dado el radio correspondiente.
 - [ ] Comprobar si el número entregado por input es primo.
 - [ ] Comprobar si una cadena de caracteres es un palíndromo.
-- [ ] Ordenar un listado de valores.
+- [X] Ordenar un listado de valores.
 - [ ] Obtener la frecuencia de los valores de una lista entregada.
 - [X] Obtener todos las palabras de un texto y colocarlas en una lista.
 
