@@ -5,7 +5,7 @@ def executeFunction (option):
 	if option == 1:
 		print("TO BE IMPLEMENTED...")
 	elif option == 2:
-		print("TO BE IMPLEMENTED...")
+		findMaxValue.execute()
 	elif option == 3:
 		getFactorial.execute()
 	elif option == 4:
