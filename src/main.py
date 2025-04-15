@@ -3,7 +3,7 @@ from functionalities import *
 # Execute a functionality. Return True if the user select option 0
 def executeFunction (option):
 	if option == 1:
-		print("TO BE IMPLEMENTED...")
+		meanFromList.execute()
 	elif option == 2:
 		findMaxValue.execute()
 	elif option == 3:

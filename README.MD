@@ -6,16 +6,14 @@ Este es un ejercicio para el electivo "Introducción a DevOps", donde deberán a
 
 Los estudiantes deberán agruparse de a dos o tres integrantes. Luego, deberán crear una o más de las siguientes funcionalidades a la aplicación.
 
-- [ ] Calcular el promedio de un listado de valores.
+
 - [X] Comprobar si el número entregado por input es primo.
+- [X] Calcular el promedio de un listado de valores.
 - [X] Encontrar el valor máximo dentro de un listado de valores.
 - [X] Calcular el área de un círculo dado el radio correspondiente.
 - [X] Obtener el factorial de un número según un input dado.
-- [ ] Comprobar si el número entregado por input es primo.
-- [ ] Comprobar si una cadena de caracteres es un palíndromo.
 - [X] Ordenar un listado de valores.
 - [X] Comprobar si una cadena de caracteres es un palíndromo.
-- [ ] Ordenar un listado de valores.
 - [ ] Obtener la frecuencia de los valores de una lista entregada.
 - [X] Obtener todos las palabras de un texto y colocarlas en una lista.
 
