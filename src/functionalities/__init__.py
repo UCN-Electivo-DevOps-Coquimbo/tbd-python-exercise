@@ -1,5 +1,11 @@
 __all__ = [
     "menu",
     "getTextWords",
-    "meanFromList"
+    "meanFromList",
+    "sortFunction",
+    "isPalindrome",
+    "findMaxValue",
+    "circle_area",
+    "getFactorial",
 ]
+

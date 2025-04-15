@@ -5,17 +5,17 @@ def executeFunction (option):
 	if option == 1:
 		meanFromList.execute()
 	elif option == 2:
-		print("TO BE IMPLEMENTED...")
+		findMaxValue.execute()
 	elif option == 3:
-		print("TO BE IMPLEMENTED...")
+		getFactorial.execute()
 	elif option == 4:
-		print("TO BE IMPLEMENTED...")
+		circle_area.execute()
 	elif option == 5:
 		print("TO BE IMPLEMENTED...")
 	elif option == 6:
-		print("TO BE IMPLEMENTED...")
+		isPalindrome.execute()
 	elif option == 7:
-		print("TO BE IMPLEMENTED...")
+		sortFunction.execute()
 	elif option == 8:
 		print("TO BE IMPLEMENTED...")
 	elif option == 9:
