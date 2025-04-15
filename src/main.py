@@ -11,7 +11,7 @@ def executeFunction (option):
 	elif option == 4:
 		circle_area.execute()
 	elif option == 5:
-		print("TO BE IMPLEMENTED...")
+		isCousing.execute()
 	elif option == 6:
 		isPalindrome.execute()
 	elif option == 7:

@@ -1,6 +1,7 @@
 __all__ = [
     "menu",
     "getTextWords",
+    "isCousing",
     "meanFromList",
     "sortFunction",
     "isPalindrome",
