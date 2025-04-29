@@ -1,6 +1,7 @@
 __all__ = [
     "menu",
     "getTextWords",
+    "isPrime",
     "getFrecuencyList",
     "meanFromList",
     "sortFunction",
